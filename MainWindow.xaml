@@ -1,0 +1,35 @@
+﻿<Window x:Class="AlfaRelease.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlfaRelease"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="LightBlue">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.Row="0" Orientation="Horizontal" >
+            <Button Content="Easy" Width="80" Margin="5" FontStyle="Italic" FontWeight="Bold" FontSize="20" x:Name="btnEasy" Click="btnEasy_Click"  />
+            <Button Content="Hard" Width="80" Margin="5" FontStyle="Italic" FontWeight="Bold" FontSize="20" x:Name="btnHard" Click="btnHard_Click" />
+            <Button Content="Rules" Width="80" Margin="5" FontStyle="Italic" FontWeight="Bold" FontSize="20" x:Name="btnHelp" Click="btnHelp_Click" />
+
+            <Label x:Name="ScoreLbl" Margin="200 0 0 0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="25" Content="Score : 0" Background="LightBlue"/>
+        </StackPanel>
+
+        <TextBox Grid.Column="0" Grid.Row="1" Visibility="Hidden" x:Name="txtRules" Background="LightBlue" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" FontWeight="Bold" FontSize="25" Text="text" FontStyle="Italic" Padding="10 50 10 10"/>
+
+        <Border Grid.Column="0" Grid.Row="1" BorderBrush="Gray" BorderThickness="4" x:Name="CanvasBorder">
+            <Canvas  Margin="0" Name="canvas" 
+         Background="LightBlue" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        </Border>
+
+    </Grid>
+
+</Window>

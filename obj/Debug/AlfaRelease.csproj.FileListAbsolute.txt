@@ -1,0 +1,15 @@
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease.csprojAssemblyReference.cache
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\MainWindow.g.cs
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\App.g.cs
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease_MarkupCompile.cache
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease_MarkupCompile.lref
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\bin\Debug\AlfaRelease.exe.config
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\bin\Debug\AlfaRelease.exe
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\bin\Debug\AlfaRelease.pdb
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\MainWindow.baml
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease.g.resources
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease.Properties.Resources.resources
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease.csproj.GenerateResource.cache
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease.csproj.CoreCompileInputs.cache
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease.exe
+C:\Users\Dan4inatora\Desktop\SNAKEKPK\AlfaRelease\AlfaRelease\obj\Debug\AlfaRelease.pdb
